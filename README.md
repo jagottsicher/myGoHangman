@@ -1,2 +1,2 @@
 # myGoHangman
-A little hangman game for the terminal for educational purposes only
+A little hangman game on the terminal for educational purposes only
